@@ -1,7 +1,10 @@
 # COVID-19 Global Impact & Trends
 Historical snapshot of the COVID-19 pandemic during its early global spread, based on JHU CSSE data available on March 7, 2020.
-## Overview
-An early-pandemic Power BI dashboard developed in March 2020 to monitor the emerging global spread of COVID-19 using publicly available data from the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
+
+## Project Context
+This project was originally developed during the early stages of the COVID-19 pandemic to track the cases on a near real-time basis. As the pandemic evolved, the project was paused. It has since been revisited as both a historical data-analysis project and a reflection on the human side of working with real-world data.
+The Story Behind the Project
+When the Numbers Stop Being Just Numbers — [Read the story →]
 
 ## Business Questions
 How was COVID-19 spreading globally during the early stages of the pandemic, and which countries were experiencing the greatest impact?
@@ -21,6 +24,7 @@ How was COVID-19 spreading globally during the early stages of the pandemic, and
 ## Tools
 - Power BI
 - DAX
+  [Uploading Covid_19_measures.txt…]()
 - Power Query
 - Python
 
@@ -37,10 +41,8 @@ The repository has since been archived, but historical data remains available. J
 ### Data Collection with Python
 [Uploading Covid 19 Dataset.py…]()
 
-## Project Context
-This project was originally developed during the early stages of the COVID-19 pandemic, before Kenya reported its first confirmed case on March 13, 2020. As the pandemic evolved, the project was paused. It has since been revisited as both a historical data-analysis project and a reflection on the human side of working with real-world data.
-The Story Behind the Project
-When the Numbers Stop Being Just Numbers — [Read the story →]
+
+
 
 
 
